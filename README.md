@@ -421,4 +421,4 @@ The Sharpe ratio was above 3 for each training period (which is excellent). The 
 
 One of the issue with the model during the testing periods is that it generated few trades (11 for the first testing period and 10 for second testing period). This may be due to an over optimized model which caused overfitting. We could also test the same model on different assets and different timeframes.
 
-Also, this a a basic model of the Elliott Wave Theory. We could also enter the market with Fibonacci retracements and exit the market using Fibonacci extensions.
+Also, this is a basic model of the Elliott Wave Theory. We could also enter the market with Fibonacci retracements and exit the market using Fibonacci extensions.
